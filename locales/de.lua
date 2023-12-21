@@ -71,6 +71,7 @@ Translations = Translations or {
     }
 }
 
+if GetConvar('rsg_locale', 'en') == 'de' then
 Lang = Lang or Locale:new({
     phrases = Translations,
     warnOnMissing = true
