@@ -48,7 +48,7 @@ Translations = Translations or {
         phonenumber = "Telefonnummer",
         accountnumber = "Account Number",
 
-        chardel_header = "Character Registration",
+        chardel_header = "Charakter Registrierung",
 
         -- Delete character
         deletechar_header = "Charakter löschen",
@@ -61,8 +61,8 @@ Translations = Translations or {
         -- Loading Text
         retrieving_playerdata = "Abrufen der Spielerdaten",
         validating_playerdata = "Überprüfen der Spielerdaten",
-        retrieving_characters = "Abrufen der Charactere",
-        validating_characters = "Überprüfen der Charactere",
+        retrieving_characters = "Abrufen der Characterdaten",
+        validating_characters = "Überprüfen der Characterdaten",
 
         -- Notifications
         ran_into_issue = "Es ist ein Problem aufgetreten",
